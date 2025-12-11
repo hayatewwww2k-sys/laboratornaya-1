@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\ppigu\\source\\repos\\Laba 1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2F57D5C8-004B-4603-BD60-5E5552EA3515}|Laba 1.vcxproj|C:\\Users\\ppigu\\source\\repos\\Laba 1\\base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F57D5C8-004B-4603-BD60-5E5552EA3515}|Laba 1.vcxproj|solutionrelative:base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F57D5C8-004B-4603-BD60-5E5552EA3515}|Laba 1.vcxproj|C:\\Users\\ppigu\\source\\repos\\Laba 1\\poet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F57D5C8-004B-4603-BD60-5E5552EA3515}|Laba 1.vcxproj|solutionrelative:poet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2F57D5C8-004B-4603-BD60-5E5552EA3515}|Laba 1.vcxproj|C:\\Users\\ppigu\\source\\repos\\Laba 1\\novelist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2F57D5C8-004B-4603-BD60-5E5552EA3515}|Laba 1.vcxproj|solutionrelative:novelist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -31,16 +39,8 @@
       "RelativeMoniker": "D:0:0:{2F57D5C8-004B-4603-BD60-5E5552EA3515}|Laba 1.vcxproj|solutionrelative:novelist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F57D5C8-004B-4603-BD60-5E5552EA3515}|Laba 1.vcxproj|C:\\Users\\ppigu\\source\\repos\\Laba 1\\poet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2F57D5C8-004B-4603-BD60-5E5552EA3515}|Laba 1.vcxproj|solutionrelative:poet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2F57D5C8-004B-4603-BD60-5E5552EA3515}|Laba 1.vcxproj|C:\\Users\\ppigu\\source\\repos\\Laba 1\\poet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2F57D5C8-004B-4603-BD60-5E5552EA3515}|Laba 1.vcxproj|solutionrelative:poet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F57D5C8-004B-4603-BD60-5E5552EA3515}|Laba 1.vcxproj|C:\\Users\\ppigu\\source\\repos\\Laba 1\\base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2F57D5C8-004B-4603-BD60-5E5552EA3515}|Laba 1.vcxproj|solutionrelative:base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,11 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "novelist.cpp",
               "DocumentMoniker": "C:\\Users\\ppigu\\source\\repos\\Laba 1\\novelist.cpp",
               "RelativeDocumentMoniker": "novelist.cpp",
@@ -62,12 +62,11 @@
               "RelativeToolTip": "novelist.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-08T18:27:20.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-08T18:27:20.871Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "fantast.h",
               "DocumentMoniker": "C:\\Users\\ppigu\\source\\repos\\Laba 1\\fantast.h",
               "RelativeDocumentMoniker": "fantast.h",
@@ -79,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "fantast.cpp",
               "DocumentMoniker": "C:\\Users\\ppigu\\source\\repos\\Laba 1\\fantast.cpp",
               "RelativeDocumentMoniker": "fantast.cpp",
@@ -91,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "keeper.h",
               "DocumentMoniker": "C:\\Users\\ppigu\\source\\repos\\Laba 1\\keeper.h",
               "RelativeDocumentMoniker": "keeper.h",
@@ -103,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "keeper.cpp",
               "DocumentMoniker": "C:\\Users\\ppigu\\source\\repos\\Laba 1\\keeper.cpp",
               "RelativeDocumentMoniker": "keeper.cpp",
@@ -115,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\ppigu\\source\\repos\\Laba 1\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
@@ -127,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "novelist.h",
               "DocumentMoniker": "C:\\Users\\ppigu\\source\\repos\\Laba 1\\novelist.h",
               "RelativeDocumentMoniker": "novelist.h",
@@ -139,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "poet.cpp",
               "DocumentMoniker": "C:\\Users\\ppigu\\source\\repos\\Laba 1\\poet.cpp",
               "RelativeDocumentMoniker": "poet.cpp",
@@ -151,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "poet.h",
               "DocumentMoniker": "C:\\Users\\ppigu\\source\\repos\\Laba 1\\poet.h",
               "RelativeDocumentMoniker": "poet.h",
@@ -163,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "base.h",
               "DocumentMoniker": "C:\\Users\\ppigu\\source\\repos\\Laba 1\\base.h",
               "RelativeDocumentMoniker": "base.h",
@@ -171,7 +170,8 @@
               "RelativeToolTip": "base.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-08T18:25:11.928Z"
+              "WhenOpened": "2025-12-08T18:25:11.928Z",
+              "EditorCaption": ""
             }
           ]
         }
